@@ -1,5 +1,6 @@
-# This project was
+# eCommerce app
 
+This project was
 created as part of Scandiweb junior fullstack developer assignment.
 
 ## Available Scripts
